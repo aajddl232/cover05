@@ -1,0 +1,8 @@
+body {
+    color: #333333;
+}
+
+.inner {
+    max-width: 1170px;
+    margin: 0 auto;
+}
